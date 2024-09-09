@@ -1,0 +1,6 @@
+D:\Users\illid\source\Pract1Testing\Pract1Testing\bin\Debug\Pract1Testing.dll
+D:\Users\illid\source\Pract1Testing\Pract1Testing\bin\Debug\Pract1Testing.pdb
+D:\Users\illid\source\Pract1Testing\Pract1Testing\obj\Debug\Pract1Testing.csproj.AssemblyReference.cache
+D:\Users\illid\source\Pract1Testing\Pract1Testing\obj\Debug\Pract1Testing.csproj.CoreCompileInputs.cache
+D:\Users\illid\source\Pract1Testing\Pract1Testing\obj\Debug\Pract1Testing.dll
+D:\Users\illid\source\Pract1Testing\Pract1Testing\obj\Debug\Pract1Testing.pdb
